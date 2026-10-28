@@ -7,3 +7,4 @@ dist/
 tests/.tmp_*/
 platform-tools/
 .workbuddy/
+.bak/
