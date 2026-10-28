@@ -1,0 +1,6 @@
+PySide6>=6.5.0
+# 可选：纯 Python adb 客户端（本工具默认使用内置/系统 adb 命令行，
+# 安装 adbutils 可作为备用通道，二者均可工作）
+adbutils>=0.14.0
+# 打包为单 exe（可选）：
+# pyinstaller>=6.0
